@@ -23,7 +23,7 @@ O jogo apresenta uma gameplay dinâmica, novos inimigos, sprites personalizados 
 
 ## 📁 ARQUIVO CP3
 
-> 🔽 Adicione aqui o arquivo `.cp3` do Construct 3 usado para o desenvolvimento do jogo.
+[Baixar o arquivo .cp3]()
 
 ---
 
