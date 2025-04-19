@@ -1,65 +1,71 @@
-# Jesus vs Demônios - Jogo 2D com Integração NoSQL
+# 👑 Jesus vs Demônios - Jogo 2D com Banco de Dados NoSQL
 
-Este é um jogo 2D feito com integração a banco de dados NoSQL, desenvolvido como parte da atividade em sala de aula.  
-O jogo apresenta uma gameplay dinâmica, novos inimigos, sprites personalizados e integração funcional com banco de dados para envio e recebimento de informações.
+Este projeto é um jogo 2D desenvolvido em sala de aula com integração com banco de dados NoSQL. O jogador controla Jesus em uma batalha contra demônios, utilizando ataques normais e especiais. O jogo salva e recupera informações do banco de dados, demonstrando uma integração funcional.
 
----
-
-## 🎮 Funcionalidades
-
-- Integração com banco de dados NoSQL (envio e recebimento de dados).
-- Sprites personalizados.
-- Jogo responsivo e funcional.
+🔗 [Jogar Online](https://www.construct.net/en/free-online-games/jesus-vs-demonios-75585/play)
 
 ---
 
 ## 🎮 Como Jogar
 
-- Use as **setas do teclado** para mover o personagem.
-- **Clique com o botão esquerdo do mouse** para realizar um ataque normal.
-- **Clique com o botão direito do mouse** para usar o ataque especial.
+- **Mover**: Setas do teclado ← ↑ → ↓  
+- **Ataque normal**: Botão esquerdo do mouse  
+- **Ataque especial**: Botão direito do mouse  
 
 ---
 
-## 📁 ARQUIVO CP3
+## 📦 Arquivo CP3
 
-[Baixar o arquivo .cp3]()
-
----
-
-## 🎨 SPRITES
-
-> 🖼️ Adicione aqui as imagens dos sprites utilizados no desenvolvimento do jogo.  
-> Pode incluir personagens, inimigos, poderes, cenário, etc.
+[📁 Baixar projeto Jesus Vs Demonios.c3p](./Jesus%20Vs%20Demonios.c3p)
 
 ---
 
-## 🖼️ IMAGENS DA APLICAÇÃO
+## 🎨 Sprites
 
-> 📸 Adicione aqui as capturas de tela do jogo em funcionamento.  
-> Sugestão: tela inicial, gameplay, momento de vitória ou derrota.
-
----
-
-## 🗃️ IMAGENS DO BANCO DE DADOS
-
-> 📊 Adicione aqui prints do banco de dados mostrando o envio e recebimento de dados.
-
----
-
-## 🌐 Link para Acessar o Jogo
-
-[Jesus vs Demônios - Clique aqui para jogar](https://www.construct.net/en/free-online-games/jesus-vs-demonios-75585/play)
+| Tipo                 | Arquivo                                           |
+|----------------------|---------------------------------------------------|
+| **Protagonista**     | ![Jesus](./assets/sprite%20jesus.png)             |
+| **Inimigos**         | ![Demônio](./assets/sprite%20demon%20(1).png)     |
+| **Ataque Normal**    | ![Fireball](./assets/fireball.png)                |
+| **Ataque Especial**  | ![Especial](./assets/sprite%20Breadblank.webp)    |
+| **Efeito de Acerto** | ![Acerto](./assets/spark-flash.webp)              |
+| **Ícone do Jogo**    | ![Ícone](./assets/game%20icon.png)                |
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🖼️ Imagens da Aplicação
 
-- [Construct 3](https://www.construct.net)
-- Banco de dados NoSQL (Firebase)
+| Tela                            | Imagem                                                  |
+|---------------------------------|----------------------------------------------------------|
+| Tela Principal                  | ![Principal](./assets/Imagem%20Principal.png)            |
+| Tela de Fim                     | ![Fim](./assets/Tela%20de%20fim%20de%20jogo.png)         |
+| Gameplay 1                      | ![Gameplay1](./assets/jogo1.png)                         |
+| Gameplay 2                      | ![Gameplay2](./assets/jogo2.png)                         |
+| Gameplay 3                      | ![Gameplay3](./assets/jogo3.png)                         |
 
 ---
 
-## 👨‍💻 Desenvolvido por
+## 🗃️ Imagens do Banco de Dados
 
-Kauan Eduardo Rodrigues do Carmo
+| Tela do banco de dados funcionando |
+|-----------------------------------|
+| ![Banco de dados](./assets/banco%20de%20dados%20jogo.png) |
+
+---
+
+## 📝 Descrição
+
+Este jogo foi criado como parte da atividade de integração de banco de dados NoSQL com jogos 2D. Foram feitas modificações, incluindo novos sprites, ataques personalizados e persistência de dados.
+
+---
+
+## ✔️ Pontos Avaliados
+
+- [x] Integração com banco de dados (envio e recebimento)
+- [x] Modificações gráficas (sprites, efeitos, inimigos)
+- [x] README completo com prints, link e descrição
+- [x] Arquivos do jogo incluídos
+
+---
+
+Desenvolvido para fins educacionais. 😄
