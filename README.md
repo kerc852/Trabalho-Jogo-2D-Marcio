@@ -25,7 +25,7 @@ Este projeto é um jogo 2D desenvolvido em sala de aula com integração com ban
 | Tipo                 | Arquivo                                           |
 |----------------------|---------------------------------------------------|
 | **Protagonista**     | ![Jesus](./assets/sprite%20jesus.png)             |
-| **Inimigos**         | ![Demônio](./assets/sprite%20demon%20(1).png)     |
+| **Inimigos**         | ![Demônio](./assets/srpite%20demon%20(1).png)     |
 | **Ataque Normal**    | ![Fireball](./assets/fireball.png)                |
 | **Ataque Especial**  | ![Especial](./assets/sprite%20Breadblank.webp)    |
 | **Efeito de Acerto** | ![Acerto](./assets/spark-flash.webp)              |
